@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NYETwBL6k8Ylgpv+N5wOhGG8pgOzOUI4UXQc9Sy/zmdexKpEyA/DwO4PeZrZDMFljCPocrEAZ38iMHm6f/Y2Uw==",
+  "success": true,
+  "projectFilePath": "D:\\GitHub\\School\\src\\Services\\Presentation\\Wpf\\YarpGrpcApp\\Gateway\\Gateway.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mavun\\.nuget\\packages\\system.io.hashing\\7.0.0\\system.io.hashing.7.0.0.nupkg.sha512",
+    "C:\\Users\\mavun\\.nuget\\packages\\yarp.reverseproxy\\2.0.0\\yarp.reverseproxy.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
